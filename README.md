@@ -40,9 +40,6 @@ The Power BI dashboard provides a visual summary of key insights:
 - Outlet year-wise analysis
 - Filterable and interactive visuals
 
-📎 **Dashboard Screenshot**:  
-![Blinkit Dashboard](./Blinkit_Dashboard.png)
-
 ---
 
 ## 🧾 SQL Report Highlights
